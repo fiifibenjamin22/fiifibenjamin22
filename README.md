@@ -1,6 +1,4 @@
-# Hi, I'm [Benjamin Acquah] 🚀
-
-<img src="https://avatars.githubusercontent.com/u/21160810?v=4" alt="profile image" align="right" width="200"/>
+## Hi, I'm Benjamin Acquah 🚀
 
 ## A Senior Software Developer with 15 years of experience 🎓
 
@@ -19,7 +17,7 @@ I am passionate about delivering high-quality software solutions that meet the n
 
 ## Connect With Me 🤝
 
-If you have any questions or would like to discuss a potential project, feel free to contact me via email 📧 [Your Email Address] or connect with me on LinkedIn 🌐 [Your LinkedIn Profile URL].
+If you have any questions or would like to discuss a potential project, feel free to contact me via email 📧 fiifibenjamindeveloper@gmail.com or connect with me on LinkedIn 🌐 https://www.linkedin.com/in/benjamin-acquah-developer/.
 
 ---
 
