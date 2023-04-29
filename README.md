@@ -11,6 +11,24 @@ I specialize in 🌐 web development, 📱 mobile applications development, 🎮
 - **Game Development**: I have worked on various game development projects using Unity3D and have experience in both 2D and 3D game development.
 - **Machine Learning**: I have experience in building and deploying machine learning models using Python and have worked on various projects involving natural language processing, image recognition, and recommendation systems.
 
+- **Languages**: 
+  - TypeScript
+  - Golang
+  - Java
+  - Python
+  - Swift
+  - Kotlin
+
+- **Frameworks/Libraries**:
+  - Node.js
+  - Spring Boot
+  - React.js
+  - Vue.js
+  - Flutter
+
+- **Cloud Platforms**:
+  - AWS
+  
 ## My Approach 🧐
 
 I am passionate about delivering high-quality software solutions that meet the needs of my clients. My approach is focused on understanding the requirements of the project, identifying the best technologies to use, and implementing solutions that are efficient, scalable, and maintainable.
