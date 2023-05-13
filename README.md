@@ -18,6 +18,8 @@ I specialize in 🌐 web development, 📱 mobile applications development, 🎮
   - Python
   - Swift
   - Kotlin
+  - C#
+  - Java
 
 - **Frameworks/Libraries**:
   - Node.js
@@ -29,6 +31,10 @@ I specialize in 🌐 web development, 📱 mobile applications development, 🎮
 - **Cloud Platforms**:
   - AWS
   
+- **Cloud Platforms**:
+- Unity 3D
+- Unreal Engine
+
 ## My Approach 🧐
 
 I am passionate about delivering high-quality software solutions that meet the needs of my clients. My approach is focused on understanding the requirements of the project, identifying the best technologies to use, and implementing solutions that are efficient, scalable, and maintainable.
