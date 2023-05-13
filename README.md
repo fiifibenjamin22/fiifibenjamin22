@@ -31,7 +31,7 @@ I specialize in 🌐 web development, 📱 mobile applications development, 🎮
 - **Cloud Platforms**:
   - AWS
   
-- **Cloud Platforms**:
+- **Toolss**:
   - Unity 3D
   - Unreal Engine
 
