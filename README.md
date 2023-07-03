@@ -2,7 +2,7 @@
 
 ## A Senior Software Developer with 15 years of experience 🎓
 
-I specialize in 🌐 web development, 📱 mobile applications development, 🎮 game development, and 🧠 machine learning. I have experience in a wide range of technologies including 💻 Typescript, 🟢 Node.js, 🐹 Golang, ☕ Java Springboot, 🐍 Python, ☁️ AWS, ⚛️ React.js, 🖥️ Vue.js, 🍎 Swift, 🔥 Kotlin, and 🦋 Flutter.
+I specialize in 🌐 web development, 📱 mobile applications development, 🎮 game development, and 🧠 machine learning. I have experience in a wide range of technologies including 💻 Typescript, 🟢 Node.js, 🐹 Golang, ☕ Java Springboot, 🐍 Python, DevOps ☁️, ☁️ AWS, ⚛️ React.js, 🖥️ Vue.js, 🍎 Swift, 🔥 Kotlin, and 🦋 Flutter.
 
 ## My Areas of Expertise 🛠️
 
@@ -30,6 +30,7 @@ I specialize in 🌐 web development, 📱 mobile applications development, 🎮
 
 - **Cloud Platforms**:
   - AWS
+  - Terraform
   
 - **Toolss**:
   - Unity 3D
